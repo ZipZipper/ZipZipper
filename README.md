@@ -7,7 +7,7 @@ Hi 👋 My name is Pavel Bondar
 
 🖥️  My portfolio:
 =============================
-* [тестирование интернет-магазина](http://https://github.com/ZipZipper/qa-engineer-project-84)
+* [тестирование интернет-магазина](https://github.com/ZipZipper/qa-engineer-project-84)
 * [тестирование в продакшене](https://github.com/ZipZipper/qa-engineer-project-85)
 
 ---
